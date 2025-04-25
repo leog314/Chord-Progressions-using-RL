@@ -6,3 +6,6 @@ Dependencies (not tested if complete):
 
     pip install torch numpy matplotlib pychord
 
+Also you need to run inside the directory for now:
+
+    git clone https://github.com/keunwoochoi/lstm_real_book
